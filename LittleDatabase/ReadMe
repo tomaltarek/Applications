@@ -1,1 +1,20 @@
-Adding JavaDB
+#Introduction
+This is a database application. With little knowledge of SQL you can use this appliation. 
+
+Configuration: 
+Cut derby jar file to jre/lib/etc folder of your computer. You are good to go. Enjoy using a full RDBMS database
+
+
+You can do all DML/DDL by running: java Crud
+By running the above command a test database will be created. 
+
+Now you can create tables or other database objects. 
+Example:  create tabel friends (id int PRIMARY KEY, name varchar(12));
+
+To insert a row to your new table, run java.Crud again. 
+
+Example: insert into test values ('some text', 'some text');
+
+
+You can do all kinds of Query by: java QueryDB
+Example: select * from test;
