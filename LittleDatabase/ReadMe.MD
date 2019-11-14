@@ -31,4 +31,4 @@ Then type:
 select * from test;
 
 ## Source Code
-If you are interested about the source code [here it is] (https://github.com/tomaltarek/Java-Rudimentary-/tree/master/JoyeeFriends) 
+If you are interested about the source code [here it is](https://github.com/tomaltarek/Java-Rudimentary-/tree/master/JoyeeFriends).
