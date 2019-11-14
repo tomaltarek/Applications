@@ -1,2 +1,2 @@
 # Applications
-All little utilities developed by me 
+All little utility program developed by me 
