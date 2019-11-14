@@ -4,9 +4,9 @@ With little knowledge of SQL you can use this appliation.
 The applciation is powered by Java Derby technology.  
 
 ## What needs done?
-Just download this folder to your computer. 
+Just download this LittleDB.zip to your computer, unzip it. 
 
-## Configuration: 
+## Configuration 
 (For windows)
 Cut derby jar file and paste it to C:\Program Files\Java\jre1.8.0_221\lib\ext folder of your computer.
 You are good to go. Enjoy using a full RDBMS database
