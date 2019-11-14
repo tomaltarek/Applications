@@ -20,7 +20,7 @@ Just type:
 create tabel friends 
 (id int PRIMARY KEY, name varchar(12));
 
-## Creating first record
+## Creating your first record
 Type: java Crud
 Then type: insert into test 
 values ('some text', 'some text');
@@ -31,4 +31,4 @@ Then type:
 select * from test;
 
 ## Source Code: 
-If you are interested about the source code here it is: 
+If you are interested about the source code here it is: https://github.com/tomaltarek/Java-Rudimentary-/tree/master/JoyeeFriends 
